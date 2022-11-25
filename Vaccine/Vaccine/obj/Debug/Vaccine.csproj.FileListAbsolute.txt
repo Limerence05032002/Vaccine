@@ -1,0 +1,14 @@
+D:\XML\Vaccine\Vaccine\bin\Debug\Vaccine.exe.config
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.csprojResolveAssemblyReference.cache
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.DangNhap.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.Properties.Resources.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.TrangQuanTri.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.csproj.GenerateResource.Cache
+D:\XML\Vaccine\Vaccine\bin\Debug\Vaccine.exe
+D:\XML\Vaccine\Vaccine\bin\Debug\Vaccine.pdb
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.exe
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.pdb
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.FormNhanVien.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.Menu.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.Vaccine.resources
+D:\XML\Vaccine\Vaccine\obj\Debug\Vaccine.FormDanhMuc.resources
